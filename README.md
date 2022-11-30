@@ -1,3 +1,12 @@
 # Canny-Edge-Detector
 
+### How to Run
+```
+python MyCannyEdgeDetector.py
+```
+
+### How it Works
 [![](https://mermaid.ink/img/pako:eNpdkU1rwzAMhv-KMBRcaA9j7OLDYG3aroec2mMuWq0mbhM72DIjlP732U32waSLeJ8XoY-bODlNQonaY9_AsagspHiTe9tHhn2HNc1huXxdyR3GEAxaWLXRz0ffKiNYy4P7oBZI1wSamE7svh3r7CjksfEUGtdqY-uJFJls5PsQmBI0YdI3Wd_KrbHYTgNUNudsBhcXvaXhUedgwy1BOcCn89fUGjT-wpDmMM7CzgG7h-MHAZR4JWBCBS8KSvpDkj32gdH4oOD5HyzGRgqeMljAGlksREe-Q6PTGW95h0pwQx1VQqXy7NJyXInK3pMTI7vDYE9CsY-0ELHXyFQYTPfvhDpjG5JK2qQLluNnHg-6fwGrl4EW)](https://mermaid.live/edit#pako:eNpdkU1rwzAMhv-KMBRcaA9j7OLDYG3aroec2mMuWq0mbhM72DIjlP732U32waSLeJ8XoY-bODlNQonaY9_AsagspHiTe9tHhn2HNc1huXxdyR3GEAxaWLXRz0ffKiNYy4P7oBZI1wSamE7svh3r7CjksfEUGtdqY-uJFJls5PsQmBI0YdI3Wd_KrbHYTgNUNudsBhcXvaXhUedgwy1BOcCn89fUGjT-wpDmMM7CzgG7h-MHAZR4JWBCBS8KSvpDkj32gdH4oOD5HyzGRgqeMljAGlksREe-Q6PTGW95h0pwQx1VQqXy7NJyXInK3pMTI7vDYE9CsY-0ELHXyFQYTPfvhDpjG5JK2qQLluNnHg-6fwGrl4EW)
+
+### Related Readings
+- [Canny Edge Detector Paper](https://www.researchgate.net/publication/224377985_A_Computational_Approach_To_Edge_Detection)
